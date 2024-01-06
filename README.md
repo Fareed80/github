@@ -1,2 +1,3 @@
-# github
-trying new thimgs
+My first git hub reposetory
+<br>
+Name - Fareed Shaikh
